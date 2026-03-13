@@ -1,0 +1,5 @@
+STUDENT_ID: 25118692
+seed: 1216861518
+clean_rows: 3005509
+sig: 23636.586320818795
+fingerprint: 41db6d1db6ffeca3f1ace252ffad54ddc4da35d811c00c85fce1bf880471f0d3
